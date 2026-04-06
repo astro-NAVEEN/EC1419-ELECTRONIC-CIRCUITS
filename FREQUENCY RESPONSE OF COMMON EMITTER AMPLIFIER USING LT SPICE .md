@@ -26,12 +26,17 @@
 
 ## Tabulation
 
+<img width="1513" height="1600" alt="image" src="https://github.com/user-attachments/assets/a5c632a1-529a-429f-8598-ee76dc8e7aa8" />
+
+
 ## Graph
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c9433aeb-5ffb-4e32-b9f4-bb7713ec16c6" />
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
-21.5
-**BANDWIDTH =**
+**VOLTAGE GAIN =** 6V
+
+**BANDWIDTH =** 800k
