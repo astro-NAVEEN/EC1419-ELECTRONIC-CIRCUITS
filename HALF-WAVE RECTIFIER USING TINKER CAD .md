@@ -4,6 +4,12 @@
 <img width="752" height="497" alt="image" src="https://github.com/user-attachments/assets/e23953c7-bb20-4b94-aadb-8b5530894bac" />
 <img width="591" height="461" alt="image" src="https://github.com/user-attachments/assets/b9852354-c1e4-46dc-b7c0-0b9490f17d07" />
 
+## TABULATION
+
+<img width="1346" height="1125" alt="image" src="https://github.com/user-attachments/assets/8860b3f7-e8ec-41aa-82a2-f55e6ad57ab2" />
+
+<img width="1003" height="1599" alt="image" src="https://github.com/user-attachments/assets/417f2cf7-4ea1-4f0d-be4a-5ebffc82533e" />
+
 
 ## TINKER CAD OUTPUT CIRCUIT
 
